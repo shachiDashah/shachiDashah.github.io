@@ -147,7 +147,7 @@ img.mobile {
     
     top: 50%;
     transform: translateY(-50%);
-	overflow: hidden;
+	overflow-x: hidden;
 }
 
 .fade-later {
