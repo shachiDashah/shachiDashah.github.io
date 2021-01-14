@@ -130,7 +130,7 @@ div.form-group-mobile {
 
 img.mobile {
 	height: auto;
-	max-width: 100%;
+	max-width: 60%;
 	display: block;
     /*margin: 0% -25% 0% -25%;*/
     
@@ -141,7 +141,7 @@ img.mobile {
     margin-right: 10px;
     position: absolute;
     text-align: center;
-    
+
     /*
     top: 50%;
     transform: translateY(-50%);
