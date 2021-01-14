@@ -141,8 +141,11 @@ img.mobile {
     margin-right: 10px;
     position: absolute;
     text-align: center;
+    
+    /*
     top: 50%;
-	transform: translateY(-50%);
+    transform: translateY(-50%);
+    */
 	overflow: hidden;
 }
 
